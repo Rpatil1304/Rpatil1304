@@ -3,12 +3,15 @@
 <h2>👨‍💻 About Me</h2>
 <p align="justify">
 Third-year B.Tech Computer Engineering student with a strong foundation in
-<strong>Data Analytics</strong>, <strong>Data Science</strong>, and
-<strong>Machine Learning</strong> and <strong>ML Ops</strong>. Proficient in
-<strong>Python</strong>, <strong>Advanced SQL</strong>, and
-<strong>Data Visualization tools</strong>, with hands-on
-experience in building predictive models and analyzing datasets. Eager to apply
-analytical skills to real-world challenges and contribute to innovative projects.
+<strong>Data Analytics</strong>, <strong>Data Science</strong>,
+<strong>Machine Learning</strong>, and <strong>MLOps</strong>. Proficient in
+<strong>Java</strong>, <strong>Python</strong>, <strong>advanced SQL</strong>,
+and <strong>Data Visualization tools</strong>, with hands-on experience in data
+preprocessing, feature engineering, and predictive modeling. Experienced in
+evaluating model performance and analyzing large-scale datasets. Familiar with
+MCP (Model Context Protocol) based AI systems and workflows. Eager to apply
+analytical and engineering skills to solve real-world problems and contribute to
+innovative, data-driven projects.
 </p>
 
 <h2>🌐 Socials</h2>
