@@ -39,7 +39,11 @@ analytical skills to real-world challenges and contribute to innovative projects
   <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
 </p>
-<h2> Coding Profile </h2>[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/RP_1304/)
+
+<h2>Coding Profile </h2>
+<a href="https://leetcode.com/u/RP_1304/">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
 
 <h2>📊 GitHub Stats</h2>
 <!-- <p align="center">
