@@ -43,7 +43,7 @@ innovative, data-driven projects.
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
 </p>
 
-<h2> <img src="https://i.pinimg.com/1200x/49/c6/e1/49c6e1672b1f53fcd21d17ebebeabab1.jpg" />Coding Profile </h2>
+<h2> 🏆 Coding Profile </h2>
 <a href="https://leetcode.com/u/RP_1304/">
   <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
