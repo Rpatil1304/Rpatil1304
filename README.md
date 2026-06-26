@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 About Me</h2>
 <p align="justify">
-Third-year B.Tech Computer Engineering student with a strong foundation in
+Final Year B.Tech Computer Engineering student with a strong foundation in
 <strong>Data Analytics</strong>, <strong>Data Science</strong>,
 <strong>Machine Learning</strong>, and <strong>MLOps</strong>. Proficient in
 <strong>Java</strong>, <strong>Python</strong>, <strong>advanced SQL</strong>,
