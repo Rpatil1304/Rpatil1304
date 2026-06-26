@@ -45,17 +45,17 @@ analytical skills to real-world challenges and contribute to innovative projects
   <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 
-<h2>📊 GitHub Stats</h2>
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohitpatil1304&theme=tokyonight&include_all_commits=true&count_private=true">
-</p> -->
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Rohitpatil1304&theme=tokyonight">
-</p>
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitpatil1304&theme=tokyonight&layout=compact">
-</p> -->
+## 📊 GitHub Statistics
 
-<!-- <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Rohitpatil1304&icon=0&color=0">
-</p> -->
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rpatil1304&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Rpatil1304&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rpatil1304&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rpatil1304&theme=tokyo-night&hide_border=true" />
+</p>
