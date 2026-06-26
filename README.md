@@ -9,7 +9,7 @@ Final Year B.Tech Computer Engineering student with a strong foundation in
 and <strong>Data Visualization tools</strong>, with hands-on experience in data
 preprocessing, feature engineering, and predictive modeling. Experienced in
 evaluating model performance and analyzing large-scale datasets. Familiar with
-MCP (Model Context Protocol) based AI systems and workflows. Eager to apply
+<strong>MCP (Model Context Protocol)</strong> based AI systems and workflows. Eager to apply
 analytical and engineering skills to solve real-world problems and contribute to
 innovative, data-driven projects.
 </p>
