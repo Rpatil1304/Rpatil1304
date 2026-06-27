@@ -44,9 +44,11 @@ innovative, data-driven projects.
 </p>
 
 <h2> 🏆 Coding Profile </h2>
+<p align="center">
 <a href="https://leetcode.com/u/RP_1304/">
   <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
+</p>
 
 ## 📊 GitHub Statistics
 
